@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Arabic Keyboard",
+  "version": "1.0",
+  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/icon-48.png",
+    "default_title": "Arabic Keyboard",
+    "default_popup": "popup/keyboard.html"
+  }
+}
